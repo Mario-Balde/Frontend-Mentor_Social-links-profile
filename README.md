@@ -43,7 +43,7 @@ The next step will be working with forms (understand how a basic form works in H
 - [MDN - Mozilla Developer](https://www.example.com) - MDN Web Docs was crucial in building this project, providing in-depth, well-structured resources on HTML and CSS. The detailed explanations and examples on MDN helped me understand the nuances of web development and apply best practices effectively. This allowed me to create a well-crafted and responsive webpage with confidence..
 
 ## Author
-- Frontend Mentor - [@Mario-Balde](https://www.frontendmentor.io/profile/Mario-Balde)
+<a href="https://www.frontendmentor.io/profile/Mario-Balde">@Mario-Balde</a>
 
 ## Acknowledgments
 I've done this project alone.
