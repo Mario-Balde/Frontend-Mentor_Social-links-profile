@@ -32,10 +32,10 @@ CSS.
 - Solution URL: [Add solution URL here](https://github.com/Mario-Balde/Frontend-Mentor_Social-links-profile)
 
 ### What did I learned?
-From the provided HTML and CSS, I've learned how to build and style a simple web page using foundational web development techniques. I've demonstrated the ability to structure content semantically with HTML, including headings, paragraphs, and images. On the CSS side, I've applied basic styling, such as controlling typography, colours, padding, marginssizing. 
+I've learned how to build and style a simple web page using foundational web development techniques from the provided HTML and CSS. I've demonstrated the ability to structure content semantically with HTML, including headings, paragraphs, and images. I've applied basic styling on the CSS side, such as controlling typography, colours, padding, and marginalizing. 
 
 ### Continued development
-I next step will be working with forms (understand how a basic form works in HTML, add interactive).
+The next step will be working with forms (understand how a basic form works in HTML, add interactively).
 
 ### Useful resources
 - [W3Schools](https://www.w3schools.com/) - W3Schools was essential in building this project, offering clear tutorials on HTML and CSS that helped me understand content structuring and styling. Their practical examples made it easy to learn and apply key web development techniques effectively.
