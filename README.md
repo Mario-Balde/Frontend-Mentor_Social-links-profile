@@ -1,6 +1,6 @@
 -- Table of contents --
 
-[Overview](#overview)
+Overview)
 [Built with](#Built-with)
 [My process](#My-process)
 [Links](#Links)
