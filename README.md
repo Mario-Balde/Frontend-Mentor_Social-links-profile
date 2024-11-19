@@ -1,14 +1,14 @@
 -- Table of contents --
 
-Overview)
-[Built with](#Built-with)
-[My process](#My-process)
-[Links](#Links)
-[What did I learned](#What-did-I-learned?)
-[Continued-development](#Continued-development)
-[Useful-resources](#Useful-resources)
-[Actor](#Author) 
-## Acknowledgments
+1. Overview
+2. Built-with
+3. My-process)
+4. Links
+5. What-did-I-learned?
+6. Continued-development
+7. Useful-resources)
+8. Author) 
+9. Acknowledgments
 
 
 ## Overview
