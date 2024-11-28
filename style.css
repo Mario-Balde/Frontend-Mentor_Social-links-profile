@@ -1,29 +1,56 @@
 img {
     display: block;
     margin: auto;
-    width: 20%;
-    height: 48%;
-    border-radius: 170px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
     position: relative;
-    top: 40px;
+    top: 20px;
     left: 2px;
-    right: 1000px;
+    right: 2px;
 }
 
 
 body {
     background-color: hsl(0, 0%, 8%);
-
+    overflow-x: hidden;
+    padding-top: 35%;
+    padding-bottom: 35%;
+    margin-right: 5%;
+    margin-left: 5%;
 }
+
 
 .container {
     background-color: hsl(0, 0%, 12%);
-    position: absolute;
-    top: 10%;
-    bottom: 10%;
-    left: 35%;
-    right: 35%;
-    border-radius: 2.5%;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 18px;
+    border-radius: 25px;
+}
+
+.social-links a {
+
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    display: inline-block;
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: 40px;
+    padding: 10px 80px;
+    border-radius: 10px;
+
+}
+
+h3 a {
+    display: block;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    font-weight: bold;
+
 }
 
 h1 {
@@ -39,44 +66,80 @@ h4 {
     text-align: center;
     color: hsl(75, 94%, 57%);
     font-weight: bold;
+    margin-top: 5px;
 }
 
 h6 {
     text-align: center;
     color: hsl(0, 0%, 100%);
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
-h3 {
-    text-align: center;
-    color: hsl(0, 0%, 100%);
-    font-weight: bold;
-}
-
-.social-links a {
-
-    text-decoration: none;
-    color: hsl(0, 0%, 100%);
-    background-color: hsl(0, 0%, 20%);
-    display: inline-block;
-    width: 200px;
-    height: 25px;
-    padding: 10px 80px;
-    border-radius: 10px;
-}
-
-a:hover {
-    background-color: hsl(75, 94%, 57%);
-    color: black;
-}
 
 .attribution {
-    text-align: right;
+    text-align: center;
     position: relative;
-    top: 700px;
-    color: hsl(0, 0%, 100%);
+    font-size: 11px;
+    color: aliceblue;
+    margin-top: 10px;
 }
+
 
 a {
     text-decoration: none;
     color: blanchedalmond;
+}
+
+
+@media(min-width: 1440px) {
+
+    @media (min-width: 1440px) {
+
+        body {
+            overflow-x: auto;
+            margin: 0;
+            padding-top: 1%;
+            padding-bottom: 1%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            margin: 20px auto;
+            border-radius: 2.5%;
+            width: 30%;
+        }
+
+    }
+
+    h3 {
+        text-align: center;
+        color: hsl(0, 0%, 100%);
+        font-weight: bold;
+    }
+
+    .social-links a {
+        display: inline-block;
+        width: 200px;
+        height: 25px;
+        padding: 10px 80px;
+        border-radius: 10px;
+    }
+
+    a:hover {
+        background-color: hsl(75, 94%, 57%);
+        color: black;
+    }
+
+    .attribution {
+        text-align: center;
+        font-size: 11px;
+        color: aliceblue;
+        width: fit-content;
+        margin-top: -1%;
+    }
+
 }
