@@ -29,8 +29,8 @@ CSS.
 
 ### Links
 
-- Solution URL: [](https://github.com/Mario-Balde/Frontend-Mentor_Social-links-profile)
-- Live Site URL: [](https://frontend-mentor-social-links-profile-six.vercel.app/)
+- Challenge URL: https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ 
+- Solution (Live Site URL): [@Mario-Balde](https://frontend-mentor-social-links-profile-six.vercel.app/)
 
 ### What did I learn?
 I've learned how to build and style a simple webpage using foundational web development techniques. I've demonstrated the ability to structure content with HTML, including headings, paragraphs, and images. For the CSS, I've learned how to style a page, by understanding the box model (content, padding, border and margin). 
