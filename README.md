@@ -1,3 +1,7 @@
+Frontend Mentor challenges help you improve your coding skills by building realistic projects that simulate real-world scenarios. 
+
+Challenge link: https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj 
+
 1. Overview
 2. Built-with
 3. My-process
@@ -43,4 +47,4 @@ The next step will be working with forms (understanding how a basic form works i
 - Frontend Mentor - [@Mario-Balde](https://www.frontendmentor.io/profile/Mario-Balde)
 
 ## Acknowledgments
-Thank you Frontend Mentor for providing the challenge! It helped me a lot in enhancing my skills. 
+Thank you, Frontend Mentor, for providing the challenge! It helped me a lot in enhancing my skills. 
