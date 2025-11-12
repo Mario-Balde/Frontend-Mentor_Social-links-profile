@@ -1,6 +1,6 @@
 Frontend Mentor challenges help you improve your coding skills by building realistic projects that simulate real-world scenarios. 
 
-Challenge link: https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj 
+Challenge link: https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
 
 1. Overview
 2. Built-with
